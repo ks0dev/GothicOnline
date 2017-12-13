@@ -7,7 +7,7 @@ Huge thanks and respect to Sative and Bimbol. They have build the projects from 
 
 
 
-Website built by TYD (TYD INC) [https://tydinc.github.io/GothicOnline/]
+Website built by TYD (TYD INC). [https://tydinc.github.io/GothicOnline/]
 
 Multiplayer/Online files, projects and source codes by Sative and Bimbol. [http://gothic-online.com.pl/]
 
