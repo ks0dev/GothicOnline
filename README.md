@@ -11,4 +11,4 @@ Huge thanks and respect to Sative and Bimbol. They have built the projects from 
 
 Files, projects and source codes by [Sative and Bimbol](http://gothic-online.com.pl/).
 
-You can find the website with the downloads [here](https://tydinc.github.io/GothicOnline/).
+You can find the website with the downloads [here](https://serbenta.github.io/GothicOnline/).
